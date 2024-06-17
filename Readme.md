@@ -1,5 +1,7 @@
 # Github Finder Application
 
+## Description
+
 This is a web application developed using Github OAuth Apps to find Github users.
 
 ## Technologies Used
@@ -15,18 +17,6 @@ This is a web application developed using Github OAuth Apps to find Github users
 # Link
 
 [Website](https://663bbd014f86f41219c87a55--silly-selkie-610495.netlify.app/)
-
-## Description
-
-Describe your application here. Include its purpose, features, and any other relevant information.
-
-## How to Use
-
-Provide instructions on how to use your application, including how to search for Github users.
-
-## Installation
-
-If there are any specific installation steps required for your application, mention them here.
 
 ## Contributing
 
