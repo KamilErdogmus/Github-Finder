@@ -14,7 +14,7 @@ This is a web application developed using Github OAuth Apps to find Github users
 
 1. Clone the repository:
    ```bash
-  https://github.com/KamilErdogmus/Github-Finder.git
+   https://github.com/KamilErdogmus/Github-Finder.git
    ```
 2. Open the index.html file in your browser
 
